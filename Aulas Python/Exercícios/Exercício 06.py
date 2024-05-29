@@ -13,7 +13,7 @@ multiplicacao = numero01 * numero02
 media = (numero01 + numero02) / 2
 
 maiorNumero = max(numero01, numero02)
-menorNumero = max(numero01, numero02)
+menorNumero = min(numero01, numero02)
 
 if numero01 > numero02:
     maiorNumero = menorNumero
